@@ -1,0 +1,12 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		inteiro dia = 24  //horas
+		inteiro ano = 365  //dias
+		inteiro decada = 365 * 10
+
+		escreva ("no dia tem " ,dia, " horas e no ano tem " ,dia * ano, " horas, e em uma decada tem " ,dia * decada, " horas")
+	}
+}
