@@ -1,0 +1,13 @@
+programa
+{
+	
+	funcao inicio()
+{
+
+	   inteiro ano = 31536000
+
+	   escreva (  977000000 / ano, " anos")
+
+	  
+	}
+}
