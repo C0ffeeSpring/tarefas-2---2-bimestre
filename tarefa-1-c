@@ -1,0 +1,14 @@
+programa
+{
+	
+	funcao inicio()
+	{
+	inteiro idade 
+	inteiro ano = 31536000  //segundos
+
+       escreva ("qual a sua idade?" ,"\n")
+       leia (idade)
+
+        escreva ("sua idade em segundos é " , ano * idade)
+	}
+}
