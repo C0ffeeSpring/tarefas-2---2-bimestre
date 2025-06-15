@@ -1,0 +1,11 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		inteiro dia = 24  //horas
+		inteiro ano = 365  //dias
+
+		escreva ("no dia tem " ,dia, " horas e no ano tem " ,dia * ano, " horas")
+	}
+}
