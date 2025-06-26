@@ -1,0 +1,21 @@
+programa
+{
+    funcao inicio()
+    {
+        inteiro tabua3, tabua4, tabua5
+        inteiro sobra3, sobra4, sobra5
+
+        tabua3 = 300 / 45
+        sobra3 = 300 % 45
+
+        tabua4 = 400 / 45
+        sobra4 = 400 % 45
+
+        tabua5 = 500 / 45
+        sobra5 = 500 % 45
+
+        escreva("Tábua de 3m: ", tabua3, " pedaços, sobra ", sobra3, " cm\n")
+        escreva("Tábua de 4m: ", tabua4, " pedaços, sobra ", sobra4, " cm\n")
+        escreva("Tábua de 5m: ", tabua5, " pedaços, sobra ", sobra5, " cm\n")
+    }
+}
