@@ -1,0 +1,11 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		inteiro tempo = 5
+		inteiro semana = 6 * 52 // quantas semanas tem em um ano
+
+		escreva ("você se dedicou ", (tempo * semana) / 60, " horas de leitura no fim do ano")
+	}
+}
